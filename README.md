@@ -6,7 +6,7 @@ I've used the training and testing data which is provided by BelgiumTCS which ca
 Training data:
 https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Training.zip
 
-Testing datam:
+Testing data:
 https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
 
 Check the output:
