@@ -10,5 +10,7 @@ Testing datam:
 https://btsd.ethz.ch/shareddata/BelgiumTSC/BelgiumTSC_Testing.zip
 
 Check the output:
-I'm getting the model accuracy around 63%. 
-![alt-image](https://github.com/juhilsomaiya/Traffic_Sign_Recognition_MachineLearing/blob/master/Traffic_output.png)
+I'm getting the model accuracy around 83%. 
+
+
+![alt-image](https://github.com/juhilsomaiya/Traffic_Sign_Recognition_MachineLearing/blob/master/output.png)
